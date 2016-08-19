@@ -1,0 +1,2 @@
+# my-notes
+study notes
