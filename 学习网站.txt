@@ -1,0 +1,8 @@
+
+linux 命令大全： http://man.linuxde.net/
+
+gulp详细教程：http://www.ydcss.com/archives/18
+
+浏览器缓存详解：http://web.jobbole.com/82997/
+
+redux+react+ant
